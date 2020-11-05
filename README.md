@@ -9,7 +9,7 @@ a commit-odban
 - Commit-olj gyakran és az üzenetek legyenek elég deskriptívek
 - Minden válasz és megoldás kerüljön ebbe a repository-ba
 
-## Tarts észben
+## Tartsd észben
 
 - Bármilyen online forrást használhatsz, de **kérlek dolgozz egyedül!**
 
