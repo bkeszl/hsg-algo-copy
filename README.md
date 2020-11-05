@@ -20,5 +20,5 @@ a commit-odban
 
 ## Feladatok
 
-[Java](java.md)
-[JavaScript](js.md)
+- [Java](java.md)
+- [JavaScript](js.md)
