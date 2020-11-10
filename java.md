@@ -87,7 +87,7 @@ public class GrammarCheck {
 }
 ```
 
-## __4. Average of every `n`th element__
+### __4. Average of every `n`th element__
 
 ```java
 public class AverageOfEveryNth {
