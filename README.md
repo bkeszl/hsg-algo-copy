@@ -1,4 +1,4 @@
-# Avius algoritmusok vizsga
+# Avius algoritmusos próba vizsga
 
 ## Kezdeti lépések
 
