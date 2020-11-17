@@ -31,7 +31,7 @@ public class AverageOfEveryNth {
         System.out.println(averageOfEveryNth(array, 3));
     }
 
-    public static float averageOfEveryNth(int[] array, int n) {
+    public static double averageOfEveryNth(int[] array, int n) {
         if (n < 1 || n > array.length - 1 ) {
             return 0;
         }
