@@ -1,3 +1,5 @@
+package com.gfa.trialexam.solution;
+
 import java.util.Arrays;
 
 public class Censor {

@@ -3,7 +3,7 @@
 ### __1. Censor__
 
 ```java
-public class Censor {
+public class com.gfa.trialexam.solution.Censor {
   public static void main(String[] args) {
     /*
     Készíts egy függvényt, amely három string-et (karakterláncot) kér paraméterként
@@ -26,7 +26,7 @@ public class Censor {
 ### __2. ThreeSum__
 
 ```java
-public class ThreeSum {
+public class com.gfa.trialexam.solution.ThreeSum {
   public static void main(String[] args) {
     /*
     Készíts egy `threeSum`nevű függvényt, ami
@@ -62,7 +62,7 @@ public class ThreeSum {
 ### __3. Grammar check__
 
 ```java
-public class GrammarCheck {
+public class com.gfa.trialexam.solution.GrammarCheck {
   public static void main(String[] args) {
     /*
     Készíts egy függvényt, amely egy string-et (`text`) kér paraméterként és
@@ -90,7 +90,7 @@ public class GrammarCheck {
 ### __4. Average of every `n`th element__
 
 ```java
-public class AverageOfEveryNth {
+public class com.gfa.trialexam.solution.AverageOfEveryNth {
     public static void main(String[] args) {
         /*
         Készíts egy `averageOfEveryNth` nevű függvényt, ami két paramétert kér:

@@ -1,4 +1,5 @@
-import java.lang.reflect.Array;
+package com.gfa.trialexam.solution;
+
 import java.util.Arrays;
 
 public class ThreeSum {

@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package com.gfa.trialexam.solution;
 
 public class AverageOfEveryNth {
     public static void main(String[] args) {
