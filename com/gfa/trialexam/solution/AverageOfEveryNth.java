@@ -35,13 +35,13 @@ public class AverageOfEveryNth {
         if (n < 1 || n > array.length - 1 ) {
             return 0;
         }
-        float avg = 0;
+        double avg = 0;
         int elementCount = array.length / n;
         int[] elements = new int[elementCount];
         for (int i = 0; i < elementCount; i++) {
             elements[i] = array[((i + 1) * n) - 1];
         }
-        float sum = 0;
+        double sum = 0;
         for (int element : elements) {
             sum += element;
         }
