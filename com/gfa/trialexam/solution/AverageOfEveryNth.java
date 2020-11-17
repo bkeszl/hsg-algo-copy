@@ -45,7 +45,7 @@ public class AverageOfEveryNth {
         for (int element : elements) {
             sum += element;
         }
-        avg = sum / elementCount;
+        avg = sum / elements.length;
         return avg;
     }
 }
