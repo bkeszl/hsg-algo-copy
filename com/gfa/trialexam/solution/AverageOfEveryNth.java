@@ -28,11 +28,11 @@ public class AverageOfEveryNth {
         Amivel vissza kellene térnie: `0`, mert nincs érvényes elem.
     */
         int[] array = {2, 4, 10, 34, 3, 16, 3, 21};
-        System.out.println(averageOfEveryNth(array, 3));
+        System.out.println(averageOfEveryNth(array, 8));
     }
 
     public static double averageOfEveryNth(int[] array, int n) {
-        if (n < 1 || n > array.length - 1 ) {
+        if (n < 1 || n > array.length) {
             return 0;
         }
         double avg = 0;
